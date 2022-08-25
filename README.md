@@ -1,4 +1,7 @@
 # NLP_ART
+<br>
+For best results, run in import into google colab.
+<br>
 
 The notebook inside this repository can generate art based on user input. This project is a showcase as to how natural language processing can be used to take user input and query labelled data for a desirable result. The main techniques present include sentiment analysis, neural networks, niave bayes,
 and a continuous bag of words. A total of six models are implemented in this project. Further detailed explanation of the techniques utilized can be
