@@ -1,6 +1,6 @@
 # NLP_ART
 
-The notebook inside this repository can be utilized to generate art based on user input. Further detailed explanation of the techniques utilized can be
+The notebook inside this repository can generate art based on user input. Further detailed explanation of the techniques utilized can be
 found in the report pdf. Existing code that detects objects in images, 
 <br>
  https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb
