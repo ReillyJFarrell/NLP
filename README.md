@@ -2,8 +2,11 @@
 
 The notebook inside this repository can be utilized to generate art based on user input. Further detailed explanation of the techniques utilied can be
 found in the report pdf. Existing code that detects objects in images, 
+<br>
  https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb
+<br>
  Copyright 2018 The TensorFlow Hub Authors. All Rights Reserved.,
+ <br>
 has been implemented to allow a dataset of existing paintings to be better classified to create more meaningful results.
 An example of usage and result are as follows:
 
